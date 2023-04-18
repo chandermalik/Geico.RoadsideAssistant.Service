@@ -1,0 +1,52 @@
+﻿<RoadsideServiceAssistants>
+	<RoadsideServiceAssistant>
+		<BusinessName>ABC Roadside Services</BusinessName>
+		<StreetAddress>23 Main St.</StreetAddress>
+		<City>NewYork</City>
+		<Zip>11001</Zip>
+		<State>NY</State>
+		<ContactPhone>234-456-8765</ContactPhone>
+		<ContactEmail>abcroadside@gmail.com</ContactEmail>
+		<IsAssigned>false</IsAssigned>
+	</RoadsideServiceAssistant>
+	<RoadsideServiceAssistant>
+		<BusinessName>XYZ Roadside Services</BusinessName>
+		<StreetAddress>27 Main St.</StreetAddress>
+		<City>Bethesda</City>
+		<Zip>20846</Zip>
+		<State>MD</State>
+		<ContactPhone>154-456-8765</ContactPhone>
+		<ContactEmail>xyzroadside@gmail.com</ContactEmail>
+		<IsAssigned>false</IsAssigned>
+	</RoadsideServiceAssistant>
+	<RoadsideServiceAssistant>
+		<BusinessName>Car Roadside Services</BusinessName>
+		<StreetAddress>35 South St.</StreetAddress>
+		<City>Rockville</City>
+		<Zip>20814</Zip>
+		<State>MD</State>
+		<ContactPhone>564-456-8765</ContactPhone>
+		<ContactEmail>carroadside@gmail.com</ContactEmail>
+		<IsAssigned>false</IsAssigned>
+	</RoadsideServiceAssistant>
+	<RoadsideServiceAssistant>
+		<BusinessName>Hello Roadside Services</BusinessName>
+		<StreetAddress>12 Walker St.</StreetAddress>
+		<City>Wayne</City>
+		<Zip>19087</Zip>
+		<State>PA</State>
+		<ContactPhone>484-456-8765</ContactPhone>
+		<ContactEmail>helloroadside@gmail.com</ContactEmail>
+		<IsAssigned>false</IsAssigned>
+	</RoadsideServiceAssistant>
+	<RoadsideServiceAssistant>
+		<BusinessName>Newstar Roadside Services</BusinessName>
+		<StreetAddress>65 Rockville Pike</StreetAddress>
+		<City>Rockville</City>
+		<Zip>20814</Zip>
+		<State>NY</State>
+		<ContactPhone>240-456-8765</ContactPhone>
+		<ContactEmail>newstarroadside@gmail.com</ContactEmail>
+		<IsAssigned>false</IsAssigned>
+	</RoadsideServiceAssistant>
+</RoadsideServiceAssistants>
